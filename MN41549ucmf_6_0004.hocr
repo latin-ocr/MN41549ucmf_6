@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41549ucmf_6_0004.png"; bbox 0 0 2574 3909; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 578 1616 1287 1899">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 578 1616 1287 1899">
+     <span class='ocr_line' id='line_1_1' title="bbox 578 1616 1287 1899; baseline 0.007 -7"><span class='ocrx_word' id='word_1_1' title='bbox 578 1616 1201 1899; x_wconf 82' lang='lat' dir='ltr'>Preservation</span> <span class='ocrx_word' id='word_1_2' title='bbox 1261 1762 1287 1804; x_wconf 95' lang='grc'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 635 1951 1281 2155">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 635 1951 1281 2155">
+     <span class='ocr_line' id='line_1_2' title="bbox 635 1951 1281 2155; baseline 0.008 -42"><span class='ocrx_word' id='word_1_3' title='bbox 635 1951 1228 2155; x_wconf 79' lang='lat' dir='ltr'>Bethlehem,</span> <span class='ocrx_word' id='word_1_4' title='bbox 1246 1983 1281 2032; x_wconf 85' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 720 2345 1287 3186">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 720 2345 1274 2561">
+     <span class='ocr_line' id='line_1_3' title="bbox 720 2345 1274 2561; baseline 0.005 -43"><span class='ocrx_word' id='word_1_5' title='bbox 720 2345 1100 2518; x_wconf 79' lang='lat' dir='ltr'>Camere</span> <span class='ocrx_word' id='word_1_6' title='bbox 1136 2347 1274 2561; x_wconf 82' lang='lat' dir='ltr'>Op</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 901 2571 1287 2964">
+     <span class='ocr_line' id='line_1_4' title="bbox 901 2571 1287 2738; baseline 0.003 -3"><span class='ocrx_word' id='word_1_7' title='bbox 901 2571 1157 2738; x_wconf 83' lang='lat' dir='ltr'>Trudi</span> <span class='ocrx_word' id='word_1_8' title='bbox 1200 2573 1287 2736; x_wconf 70' lang='lat' dir='ltr'>E«</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 944 2794 1198 2964; baseline 0.004 -4"><span class='ocrx_word' id='word_1_9' title='bbox 944 2794 1198 2964; x_wconf 66' lang='lat' dir='ltr'>&#39;rien</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 880 3018 1287 3198">
+     <span class='ocr_line' id='line_1_6' title="bbox 880 3018 1287 3186; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 880 3018 1202 3186; x_wconf 78' lang='lat' dir='ltr'>dames</span> <span class='ocrx_word' id='word_1_11' title='bbox 1250 3030 1287 3108; x_wconf 58' lang='lat'><em>⁴</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 16 22 1292 3882">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 16 22 1292 3882">
+     <span class='ocr_line' id='line_1_7' title="bbox 16 22 1292 3882; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 16 22 1292 3882; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
